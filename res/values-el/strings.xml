@@ -63,6 +63,7 @@
   <!-- The tips shown when we start recording [CHAR LIMIT=30] -->
   <string name="recording_tips">Εγγραφή&#8230;</string>
   <!-- The text "FM" shown in FM main screen [CHAR LIMIT=30] -->
+  <string name="fm_symbol">FM</string>
   <!-- Talkback message for the floating button which will play or stop FM sound
          [CHAR LIMIT=30] -->
   <string name="fm_turn_on">Αναπαραγωγή ή διακοπή FM</string>
@@ -85,6 +86,7 @@
   <!-- It means "seconds" that shown in record screen [CHAR LIMIT=2] -->
   <string name="seconds_label">Δ</string>
   <!-- The default number for record screen. It will show "00M 00S" [CHAR LIMIT=2] -->
+  <string name="timer_default">00</string>
   <!-- Actionbar title for recording FM. It will show in the action bar [CHAR LIMIT=20] -->
   <string name="record_title">Εγγραφή</string>
   <!-- The text shown in notification when currently is recording [CHAR LIMIT=50] -->
